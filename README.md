@@ -333,7 +333,7 @@
     rpcpassword=password3
     ```
 
-1. Start Bitcoin Core (bitcoin-qt), as applicable for your OS. Navigate to the Debug Window.
+1. Start Bitcoin Core (bitcoin-qt), as applicable for your OS. Navigate to the Debug Window (Window » Console).
 
 1. Add the following lines to the liquid.conf file created previously:
 
